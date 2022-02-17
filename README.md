@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Omar, and I study **Robotics, Cognition, Intelligence** at **TUM**. 
 - 🌱 I’m currently learning *Survival Analysis*
-![visitors](https://visitor-badge.glitch.me/badge?page_id=3bsamad.3bsamad)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${3bsamad}.${3bsamad})
 <!--
 **3bsamad/3bsamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![<Linkedin>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
