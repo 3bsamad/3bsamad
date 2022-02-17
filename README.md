@@ -1,7 +1,12 @@
 ### Hi there 👋
 My name is Omar, and I study **Robotics, Cognition, Intelligence** at **TUM**. 
 - 🌱 I’m currently learning *Survival Analysis*
-![visitors](https://visitor-badge.glitch.me/badge?page_id=$3bsamad.$3bsamad)
+<p>
+<a href="https://www.linkedin.com/in/omarasamad/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a href="https://dev.to/USER"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+</p>
 <!--
 **3bsamad/3bsamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![<Linkedin>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
