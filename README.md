@@ -3,7 +3,7 @@ My name is Omar, and I study **Robotics, Cognition, Intelligence** at **TUM**.
 - 🌱 I’m currently learning *Survival Analysis*
 <!--
 **3bsamad/3bsamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![<Linkedin>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
