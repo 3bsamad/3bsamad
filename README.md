@@ -1,6 +1,5 @@
 ### Hi there 👋
 My name is Omar, and I study **Robotics, Cognition, Intelligence** at **TUM**. 
-- 🌱 I’m currently learning *Stable Diffusion*.
 - 🔭 I’m currently working on **6D Pose Estimation**.
 <p>
 <a href="https://www.linkedin.com/in/omarasamad/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
