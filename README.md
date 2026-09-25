@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Omar, and I am a fresh **Robotics, Cognition, Intelligence** graduate at **TUM**. 
-- 🔭 I’m interested in **Computer Vision** and **LLMs**.
+My name is Omar, and I am a TUM Robotics & AI graduate. 
+- 🔭 I’m interested in **2D/3D Computer Vision** and **LLMs**.
 <p>
 <a href="https://www.linkedin.com/in/omarasamad/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
